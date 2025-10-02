@@ -11,54 +11,89 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Quantum Technologies (in progress), CSIC, 2025
+  * Thesis: *Free-Space Quantum Key Distribution Under Atmospheric Fluctuations* (04/2025–09/2025)  
+  * Investigating atmospheric transmission effects on QKD downlinks and optimizing operational parameters and the receiver.
 
-Work experience
+* B.Sc. in Physics, The Open University, 2023
+  * Undergraduate Thesis: *Review of Entanglement-Based Quantum Cryptography* (04/2023–08/2023)  
+  * Explored entanglement-based QKD protocols, scalability challenges, and early implementations in satellite and network-based quantum communication.
+
+Work & Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025–Present: Research Intern  
+  * Max Planck Institute for the Physics of Complex Systems  
+  * Project: *Topological skyrmion semimetals*  
+  * Supervisor: Dr. Ashley Cook  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2025–Present: Research Intern  
+  * Nordic Institute for Theoretical Physics (Nordita)  
+  * Project: *Quantum metrology in superconducting transmons*  
+  * Supervisor: Dr. Sofia Qvarfort  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2025 (Apr–Sep): Master’s Thesis Researcher  
+  * CSIC  
+  * Project: *Free-Space Quantum Key Distribution Under Atmospheric Fluctuations*  
+
+* 2023 (Apr–Aug): Undergraduate Thesis Researcher  
+  * The Open University  
+  * Project: *Review of Entanglement-Based Quantum Cryptography*  
+
+* 2021–2023: Undergraduate Experimental Work (The Open University)
+  * Violation of CHSH inequality using IBM Quantum (03/2023)  
+  * Hall effect to identify an unknown conductor (01/2023)  
+  * Mission concept for 2P/Encke comet studies (04–06/2022)  
+  * Planetary atmosphere identification using IR spectroscopy (03/2022)  
+  * Experimental verification of the Compton effect (02/2022)  
+  * Mapping Milky Way spiral structure using HI radio telescope (12/2021)  
+
+Conferences and Schools
+======
+* 07/2025: Quantum Technologies for Young Researchers Workshop (QTYR2025), CSIC, Spain  
+  * Poster: *Investigation of Beam Wander’s Impact on QBER in a Free-Space BB84 QKD Receiver*
+
+* 06/2024: 49th International Nathiagali Summer College on Quantum Technologies  
+  * ICTP, PAEC, NCP, Pakistan  
+
+* 03/2024: 9th Spring Plasma Physics School  
+  * ICTP & EGYPlasma, Egypt  
+  * Awarded *Best Problem Solving*  
+
+* 07/2023: Multi-Scale Methods Summer School, Gdańsk University of Technology, Poland  
+  * ECTS: 6 | Grade: 93%  
+
+Trainings and Courses
+======
+* 10/2024–12/2024: Statistics, Machine Learning, Git & GitLab, CI Workshops – Helmholtz Association  
+* 09/2024: Helmholtz Summer School: *From Data to Knowledge* – Helmholtz Association  
+* 07/2024: Qiskit Global Summer School 2024 – IBM  
+* 07/2024: Quantum Barsaat 2024 (quantum computing & annealing) – QWorld  
+* 09/2023–04/2024: *Introduction to Quantum Computing with Google Quantum AI* – The Coding School  
+  * Project: [Encryption with a BB84-generated key using Cirq](https://github.com/gehadibany/qxqproject)  
+* 07/2023–08/2023: Global Quantum Program – Womanium  
+* 11/2021–12/2021: Science Journalism Training Program – British Council  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming & Digital skills**: Python (data processing, visualization, quantum programming), LaTeX (academic writing), Git (version control)  
+* **Languages**: English (IELTS Academic 8.0)  
 
-Publications
+Memberships
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Institute of Physics (IOP), 2020–Present  
+
+Service and Leadership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Team Leader**, Egypt Scholars Library (2014–Present)  
+  * Leading science communication efforts for Arabic-speaking audiences.  
+  * Volunteer of the Year (2022).  
+  * Coordinated *Egypt Scholars Science Writing Contest* (2022).  
+
+* **Translator & Editor** (2013–Present)  
+  * Won *Best Coverage of the RO Water Treatment Project* (British Council, 2021).  
+
+* **Science Project Student Buddy**, The Open University (2023–Present)  
+  * Guided new physics students with academic and project-related support.  
+
+* **Time management & coordination**  
+  * Managed simultaneous work and study commitments for 12 years.  
