@@ -1,152 +1,206 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Gehad Mostafa",
+    "email": "",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://gehadibany.github.io",
+    "summary": "Master’s student in quantum technologies with research experience in quantum key distribution, quantum metrology, and topological condensed matter systems. Background in both theoretical and experimental physics, with interests in quantum communications, quantum sensing, and science communication.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Alexandria",
+      "countryCode": "EG",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "gehadibany",
+        "url": "https://www.linkedin.com/in/gehadibany"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
+        "username": "gehadibany",
+        "url": "https://github.com/gehadibany"
+      },
     ]
   },
-  "work": [],
-  "education": [
+  "research experience": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "position": "Research Intern",
+      "organization": "Max Planck Institute for the Physics of Complex Systems",
+      "website": "",
+      "startDate": "2025-05",
+      "endDate": "",
+      "summary": "Supervisor: Dr. Ashley Cook | Project: Topological skyrmion semimetals"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "position": "Research Intern",
+      "organization": "Nordic Institute for Theoretical Physics (Nordita)",
+      "website": "",
+      "startDate": "2025-08",
+      "endDate": "",
+      "summary": "Supervisor: Dr. Sofia Qvarfort | Project: Quantum metrology in superconducting transmons"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "position": "Master’s Thesis Researcher",
+      "organization": "CSIC",
+      "startDate": "2025-04",
+      "endDate": "2025-09",
+      "summary": "Supervisor: Dr. Daniel Balado Souto | Investigating atmospheric transmission effects on QKD downlinks and optimizing operational parameters and the receiver."
+    },
+    {
+      "position": "Undergraduate Thesis Researcher",
+      "organization": "The Open University",
+      "startDate": "2023-04",
+      "endDate": "2023-08",
+      "summary": "Reviewed entanglement-based QKD protocols, scalability challenges, and early implementations in operational networks and satellite-based quantum communication."
+    },
+    {
+      "position": "Undergraduate Experimental Projects",
+      "organization": "The Open University",
+      "startDate": "2021-12",
+      "endDate": "2023-03",
+      "summary": "Series of experimental investigations in physics.",
+      "highlights": [
+        "Violation of CHSH inequality using IBM Quantum (03/2023)",
+        "Hall effect to identify an unknown conductor (01/2023)",
+        "Mission concept for 2P/Encke comet studies (04-06/2022)",
+        "Planetary atmosphere identification using IR spectroscopy (03/2022)",
+        "Experimental verification of the Compton effect (02/2022)",
+        "Mapping Milky Way spiral structure using HI radio telescope (12/2021)"
+      ]
+    },
+    {
+      "position": "Team Leader",
+      "organization": "Egypt Scholars Library",
+      "startDate": "2014-01",
+      "endDate": "",
+      "summary": "Leading a science communication platform for Arabic speakers. Coordinated writing contests, trained volunteers, and published scientific content.",
+      "highlights": [
+        "Volunteer of the Year (2022)",
+        "Coordinated Egypt Scholars Science Writing Contest (2022)"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "education": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "institution": "CSIC",
+      "area": "Master’s Thesis in Quantum Key Distribution",
+      "studyType": "Master’s Research",
+      "startDate": "2025-04",
+      "endDate": "2025-09"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "institution": "The Open University",
+      "area": "B.Sc. Physics",
+      "studyType": "Bachelor",
+      "startDate": "2019",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": ["Undergraduate Thesis on Entanglement-Based QKD"]
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "institution": "Helmholtz Association",
+      "area": "Statistics, Machine Learning, Git & CI Workshops",
+      "studyType": "Training",
+      "startDate": "2024-10",
+      "endDate": "2024-12"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "institution": "IBM",
+      "area": "Qiskit Global Summer School 2024",
+      "studyType": "Training",
+      "startDate": "2024-07",
+      "endDate": "2024-07"
+    },
+    {
+      "institution": "Google Quantum AI / The Coding School",
+      "area": "Introduction to Quantum Computing",
+      "studyType": "Course",
+      "startDate": "2023-09",
+      "endDate": "2024-04",
+      "courses": ["Encryption with BB84-generated key using Cirq (GitHub project)"]
+    },
+    {
+      "institution": "Womanium",
+      "area": "Global Quantum Program",
+      "studyType": "Course",
+      "startDate": "2023-07",
+      "endDate": "2023-08"
+    },
+    {
+      "institution": "British Council",
+      "area": "Science Journalism Training Program",
+      "studyType": "Training",
+      "startDate": "2021-11",
+      "endDate": "2021-12"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "keywords": ["Python (data processing, visualization, quantum programming)", "LaTeX (academic writing)", "Git (version control)"]
+    },
+    {
+      "name": "Languages",
+      "level": "Proficient",
+      "keywords": ["English (IELTS Academic: 8.0)"]
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Poster: Investigation of Beam Wander’s Impact on QBER in a Free-Space BB84 QKD Receiver",
+      "event": "Quantum Technologies for Young Researchers (QTYR2025)",
+      "date": "2025-07",
+      "location": "CSIC, Spain"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "49th International Nathiagali Summer College on Quantum Technologies",
+      "event": "ICTP, PAEC, NCP",
+      "date": "2024-06",
+      "location": "Pakistan"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "9th Spring Plasma Physics School",
+      "event": "ICTP & EGYPlasma",
+      "date": "2024-03",
+      "location": "Egypt"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Multi-Scale Methods Summer School",
+      "event": "Gdańsk University of Technology",
+      "date": "2023-07",
+      "location": "Poland",
+      "description": "ECTS: 6 | Grade: 93%"
     }
   ],
-  "teaching": [
+  "memberships": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "organization": "Institute of Physics (IOP)",
+      "startDate": "2020",
+      "endDate": ""
     }
   ],
-  "portfolio": [
+  "volunteer": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "organization": "Egypt Scholars Library",
+      "position": "Translator, Editor, Team Leader",
+      "startDate": "2014-01",
+      "endDate": "",
+      "summary": "Science communication platform for Arabic-speaking readers.",
+      "highlights": [
+        "Volunteer of the Year (2022)",
+        "Best Coverage of RO Water Treatment Project (British Council, 2021)"
+      ]
+    },
+    {
+      "organization": "The Open University",
+      "position": "Science Project Student Buddy",
+      "startDate": "2023-01",
+      "endDate": "",
+      "summary": "Guided new physics students with project selection and academic support."
     }
   ]
 }
