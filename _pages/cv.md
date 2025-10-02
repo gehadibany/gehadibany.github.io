@@ -38,10 +38,10 @@ Research Experience
 * 2021–2023: Undergraduate Experimental Work (The Open University)
   * Violation of CHSH inequality using IBM Quantum (03/2023)  
   * Hall effect to identify an unknown conductor (01/2023)  
-  * Mission concept for 2P/Encke comet studies (04–06/2022)  
+  * Mission concept for 2P/Encke comet studies (Group project) (04–06/2022)  
   * Planetary atmosphere identification using IR spectroscopy (03/2022)  
   * Experimental verification of the Compton effect (02/2022)  
-  * Mapping Milky Way spiral structure using HI radio telescope (12/2021)  
+  * Mapping Milky Way spiral structure using HI radio telescope (11-12/2021)  
 
 Conferences and Schools
 ======
