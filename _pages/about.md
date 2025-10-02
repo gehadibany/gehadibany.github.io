@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Gehad, a girl who leapt from law to physics.
+Hi! I am Gehad, a girl who leapt from ~~law~~ to *Physics*.
