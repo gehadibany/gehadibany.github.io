@@ -2,7 +2,7 @@
 title: "Quantum Metrology in Superconducting Transmons"
 collection: talks
 type: "Talk"
-permalink: /files/nordita25.pdf
+permalink: /files/nordita25/
 venue: "Nordita"
 date: 2025-09-29
 location: "Virtual"
