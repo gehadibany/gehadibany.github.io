@@ -11,33 +11,29 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Quantum Technologies (in progress), CSIC, 2025
+* M.Sc. in Quantum Technologies, UIMP & CSIC - Spain, 2025
   * Thesis: *Free-Space Quantum Key Distribution Under Atmospheric Fluctuations* (04/2025–09/2025)  
-  * Investigating atmospheric transmission effects on QKD downlinks and optimizing operational parameters and the receiver.
+  * Investigated atmospheric transmission effects on QKD downlinks and optimizing operational parameters and the receiver.
+  * Supervisor: Dr. Daniel Balado Souto
 
-* B.Sc. in Physics, The Open University, 2023
-  * Undergraduate Thesis: *Review of Entanglement-Based Quantum Cryptography* (04/2023–08/2023)  
+* B.Sc. in Physics, The Open University - UK, 2023
+  * Thesis: *Review of Entanglement-Based Quantum Cryptography* (04/2023–08/2023)  
   * Explored entanglement-based QKD protocols, scalability challenges, and early implementations in satellite and network-based quantum communication.
 
-Work & Research Experience
+* ~~LL.B., Alexandria University - Egypt, 2016~~
+
+
+Research Experience
 ======
-* 2025–Present: Research Intern  
-  * Max Planck Institute for the Physics of Complex Systems  
+* 05/2025–Present: Research Intern  
+  * Max Planck Institute for the Physics of Complex Systems (MPI-PKS)
   * Project: *Topological skyrmion semimetals*  
   * Supervisor: Dr. Ashley Cook  
 
-* 2025–Present: Research Intern  
+* 08/2025–Present: Research Intern  
   * Nordic Institute for Theoretical Physics (Nordita)  
   * Project: *Quantum metrology in superconducting transmons*  
   * Supervisor: Dr. Sofia Qvarfort  
-
-* 2025 (Apr–Sep): Master’s Thesis Researcher  
-  * CSIC  
-  * Project: *Free-Space Quantum Key Distribution Under Atmospheric Fluctuations*  
-
-* 2023 (Apr–Aug): Undergraduate Thesis Researcher  
-  * The Open University  
-  * Project: *Review of Entanglement-Based Quantum Cryptography*  
 
 * 2021–2023: Undergraduate Experimental Work (The Open University)
   * Violation of CHSH inequality using IBM Quantum (03/2023)  
