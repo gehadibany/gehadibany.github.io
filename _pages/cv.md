@@ -58,8 +58,9 @@ Conferences and Schools
 * 07/2023: Multi-Scale Methods Summer School, Gdańsk University of Technology, Poland  
   * ECTS: 6 | Grade: 93%  
 
-Trainings and Courses [[Check the full list here](https://www.linkedin.com/in/gehadibany/details/certifications/)]
+Trainings and Courses 
 ======
+[[Check the full list here](https://www.linkedin.com/in/gehadibany/details/certifications/)]
 * 10/2024–12/2024: Statistics, Machine Learning, Git & GitLab, CI Workshops – Helmholtz Association  
 * 09/2024: Helmholtz Summer School: *From Data to Knowledge* – Helmholtz Association  
 * 07/2024: Qiskit Global Summer School 2024 – IBM  
