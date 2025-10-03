@@ -41,7 +41,7 @@ Research Experience
   * Mission concept for 2P/Encke comet studies (Group project) (04–06/2022)  
   * Planetary atmosphere identification using IR spectroscopy (03/2022)  
   * Experimental verification of the Compton effect (02/2022)  
-  * Mapping Milky Way spiral structure using HI radio telescope (11-12/2021)  
+  * Mapping Milky Way spiral structure using radio telescope (11-12/2021)  
 
 Conferences and Schools
 ======
@@ -58,14 +58,14 @@ Conferences and Schools
 * 07/2023: Multi-Scale Methods Summer School, Gdańsk University of Technology, Poland  
   * ECTS: 6 | Grade: 93%  
 
-Trainings and Courses
+Trainings and Courses [[Check the full list here](https://www.linkedin.com/in/gehadibany/details/certifications/)]
 ======
 * 10/2024–12/2024: Statistics, Machine Learning, Git & GitLab, CI Workshops – Helmholtz Association  
 * 09/2024: Helmholtz Summer School: *From Data to Knowledge* – Helmholtz Association  
 * 07/2024: Qiskit Global Summer School 2024 – IBM  
 * 07/2024: Quantum Barsaat 2024 (quantum computing & annealing) – QWorld  
 * 09/2023–04/2024: *Introduction to Quantum Computing with Google Quantum AI* – The Coding School  
-  * Project: [Encryption with a BB84-generated key using Cirq](https://github.com/gehadibany/qxqproject)  
+  * Project: Encryption with a BB84-generated key using Cirq 
 * 07/2023–08/2023: Global Quantum Program – Womanium  
 * 11/2021–12/2021: Science Journalism Training Program – British Council  
 
