@@ -28,7 +28,7 @@ author:
   bio              : "Research intern at MPI-PKS & Nordita. Interested in quantum technologies and condensed matter physics."
   location         : "Egypt"
   employer         : "Egypt Scholars Inc."
-  #uri              : # URL
+  uri              :  https://library.egyptscholars.org/author/gehad-dibany/
   email            : "gehadmostafa@hotmail.com" 
 
   # Academic websites
@@ -40,8 +40,9 @@ author:
   #orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Gehad_Eldibany"
+  #researchgate     : "https://www.researchgate.net/profile/Gehad_Eldibany"
  # scopus           : # URL
+
 
   # Repositories and software development
   #bitbucket        : # Username - Update with your username on the site
