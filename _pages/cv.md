@@ -32,7 +32,7 @@ Research Experience
 
 * 08/2025–Present: Research Intern  
   * Nordic Institute for Theoretical Physics (Nordita)  
-  * Project: *Quantum metrology in superconducting transmons*  
+  * Project: *Non-linear quantum metrology*  
   * Supervisor: Dr. Sofia Qvarfort  
 
 * 2021–2023: Undergraduate Experimental Work (The Open University)
