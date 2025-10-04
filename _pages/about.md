@@ -16,4 +16,4 @@ When I’m not buried in LaTeX notes, simulations or debugging code that *should
 
 I'm an Arabic native speaker (obviously!) and I like from time to time to practice my written Arabic skills which have been buried under the rubble of my resignation from legal translation. I *voluntarily* lead the team of [Egypt Scholars Library](https://library.egyptscholars.org/), a platform we aspire to make a destination for the general Arab audience seeking accessible, high-quality scientific content.
 
-I’m currently working on projects on quantum metrology and topological phases of matter, and exploring where I can take this curiosity next. I’m interested in pursuing a PhD where I can continue working on a relevant topic at the intersection of theory and experiment and make tangible contributions to real-world applications.
+I’m currently working on projects on quantum metrology and topological phases of matter, and exploring where I can take this curiosity next. I’m **interested in pursuing a PhD** where I can continue working on a relevant topic at the intersection of theory and experiment and make tangible contributions to real-world applications.
