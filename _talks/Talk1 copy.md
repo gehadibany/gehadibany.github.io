@@ -2,6 +2,7 @@
 title: "Egypt Scholars Inc. interview with me (in Arabic)"
 collection: talks
 type: "Talk"
+venue: "Egypt Scholars Inc."
 date: 2025-05-11
 location: "Virtual"
 pdf: https://www.youtube.com/watch?v=ujN-rhNsOac
