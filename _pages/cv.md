@@ -10,14 +10,19 @@ redirect_from:
 {% include base_path %}
 [PDF](https://gehadibany.github.io/files/Eldibany_CV.pdf)
 
+Keywords
+======
+Computational modeling, QKD, QED, metrology, topological phases of matter
+
+
 Education
 ======
-* M.Sc. in Quantum Technologies, UIMP & CSIC - Spain, 2025
+* [M.Sc. in Quantum Technologies](https://qtep.csic.es/master-quantum-tech), UIMP & CSIC - Spain, 2025
   * Thesis: *Free-Space Quantum Key Distribution Under Atmospheric Fluctuations* (04/2025–09/2025)  
   * Investigated atmospheric transmission effects on QKD downlinks and optimizing operational parameters and the receiver.
   * Supervisor: Dr. Daniel Balado Souto
 
-* B.Sc. in Physics, The Open University - UK, 2023
+* [B.Sc. in Physics](https://www.open.ac.uk/courses/physics/degrees/bsc-physics-r51), The Open University - UK, 2023
   * Thesis: *Review of Entanglement-Based Quantum Cryptography* (04/2023–08/2023)  
   * Explored entanglement-based QKD protocols, scalability challenges, and early implementations in satellite and network-based quantum communication.
 
@@ -27,14 +32,22 @@ Education
 Research Experience
 ======
 * 05/2025–Present: Research Intern  
-  * Max Planck Institute for the Physics of Complex Systems (MPI-PKS)
+  * Max Planck Institute for the Physics of Complex Systems (MPI-PKS), Dresden, Germany *(On-site from 05/2025 to 08/2025 and remotely afterwards)* 
   * Project: *Topological skyrmion semimetals*  
-  * Supervisor: Dr. Ashley Cook  
+  * Supervisor: Dr. Ashley Cook
+    * We are investigating a newly proposed topological phase of matter, the [topological skyrmion semimetal](https://arxiv.org/abs/2311.15753), and its generalizations. The project is built on previous work by the Correlations and Topology group on a [multiplicative Weyl semimetal model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.035147). Our goal is to generalize the classification of topological semimetals to phases characterized by skyrmionic or curvature-trace topology. 
 
 * 08/2025–Present: Research Intern  
   * Nordic Institute for Theoretical Physics (Nordita)  
-  * Project: *Non-linear quantum metrology*  
-  * Supervisor: Dr. Sofia Qvarfort  
+  * Project: *Quantum metrology in superconducting systems*  
+  * Supervisor: Dr. Sofia Qvarfort
+      * We are investigating how to leverage the non-linearity arising from the expansion of the potential of transmon-like Hamiltonians to increase the precision limits using quantum sensing theoretical tools.
+    
+
+* 02/2025: Master's Work (UIMP & CSIC)
+  * Analysis of the Green’s function of a metallic slab in different media
+  * Quantum dynamics of an emitter near metal-dielectric interface ([Reproduction of A. González-Tudela et al's paper "Reversible dynamics of single quantum emitters near metal-dielectric interfaces"](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.041402)
+])  
 
 * 2021–2023: Undergraduate Experimental Work (The Open University)
   * Violation of CHSH inequality using IBM Quantum (03/2023)  
@@ -56,7 +69,7 @@ Conferences and Schools
   * ICTP & EGYPlasma, Egypt  
   * Awarded *Best Problem Solving*  
 
-* 07/2023: Multi-Scale Methods Summer School, Gdańsk University of Technology, Poland  
+* 07/2023: [Multi-Scale Methods Summer School, Gdańsk University of Technology](https://ftims.pg.edu.pl/en/science-app/summer-schools-2023/multi-scale-methods-summer-school)
   * ECTS: 6 | Grade: 93%  
 
 Trainings and Courses 
