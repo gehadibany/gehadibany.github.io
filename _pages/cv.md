@@ -46,7 +46,7 @@ Research Experience
 
 * 02/2025: Master's Work (UIMP & CSIC)
   * Analysis of the Green’s function of a metallic slab in different media
-  * Quantum dynamics of an emitter near metal-dielectric interface ([Reproduction of A. González-Tudela et al's paper "Reversible dynamics of single quantum emitters near metal-dielectric interfaces"](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.041402)
+  * Quantum dynamics of an emitter near metal-dielectric interface (Reproduction of A. González-Tudela et al's paper ["Reversible dynamics of single quantum emitters near metal-dielectric interfaces"](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.041402)])
 ])  
 
 * 2021–2023: Undergraduate Experimental Work (The Open University)
