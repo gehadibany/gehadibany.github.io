@@ -12,7 +12,7 @@ redirect_from:
 
 Keywords
 ======
-Computational modeling, QKD, QED, metrology, topological phases of matter
+Computational modeling, QKD, QED, metrology, topological phases of matter, python
 
 
 Education
@@ -20,7 +20,7 @@ Education
 * [M.Sc. in Quantum Technologies](https://qtep.csic.es/master-quantum-tech), UIMP & CSIC - Spain, 2025
   * Thesis: *Free-Space Quantum Key Distribution Under Atmospheric Fluctuations* (04/2025–09/2025)  
   * Investigated atmospheric transmission effects on QKD downlinks and optimizing operational parameters and the receiver.
-  * Supervisor: Dr. Daniel Balado Souto
+  * Supervisor: Dr. Daniel Balado Souto & Dr Veronica Fernandez Marmol
 
 * [B.Sc. in Physics](https://www.open.ac.uk/courses/physics/degrees/bsc-physics-r51), The Open University - UK, 2023
   * Thesis: *Review of Entanglement-Based Quantum Cryptography* (04/2023–08/2023)  
@@ -59,13 +59,13 @@ Research Experience
 
 Conferences and Schools
 ======
-* 07/2025: Quantum Technologies for Young Researchers Workshop (QTYR2025), CSIC, Spain  
+* 07/2025: [Quantum Technologies for Young Researchers Workshop (QTYR2025)](https://www.cuantica2025.es/qtyr-2025/), CSIC, Spain  
   * Poster: *Investigation of Beam Wander’s Impact on QBER in a Free-Space BB84 QKD Receiver*
 
-* 06/2024: 49th International Nathiagali Summer College on Quantum Technologies  
+* 06/2024: [49th International Nathiagali Summer College on Quantum Technologies](https://insc.ncp.edu.pk/arch2024.php)  
   * ICTP, PAEC, NCP, Pakistan  
 
-* 03/2024: 9th Spring Plasma Physics School  
+* 03/2024: [9th Spring Plasma Physics School](https://www.egyplasma.com/school/?c=9thSPSP)  
   * ICTP & EGYPlasma, Egypt  
   * Awarded *Best Problem Solving*  
 
