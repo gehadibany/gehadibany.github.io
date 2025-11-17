@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-[PDF](https://gehadibany.github.io/files/Eldibany_CV.pdf)
 
 Keywords
 ======
