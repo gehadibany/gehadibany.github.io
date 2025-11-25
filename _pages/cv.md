@@ -85,7 +85,7 @@ Trainings and Courses
 
 Skills
 ======
-* **Programming & Digital skills**: Python (data processing, visualization, quantum programming), LaTeX (academic writing), Git (version control)  
+* **Programming & Digital skills**: Python (data processing, visualization, quantum programming), LaTeX (academic writing), Git (version control), Linux  
 * **Languages**: English (IELTS Academic 8.0)  
 
 Memberships
