@@ -34,7 +34,7 @@ Research Experience
   * Max Planck Institute for the Physics of Complex Systems (MPI-PKS), Dresden, Germany *(On-site from 05/2025 to 08/2025 and remotely afterwards)* 
   * Project: *Topological skyrmion semimetals*  
   * Supervisor: Dr. Ashley Cook
-    * We are investigating a newly proposed topological phase of matter, the [topological skyrmion semimetal](https://arxiv.org/abs/2311.15753), and its generalizations. The project is built on previous work by the Correlations and Topology group on a [multiplicative Weyl semimetal model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.035147). Our goal is to generalize the classification of topological semimetals to phases characterized by skyrmionic or curvature-trace topology. 
+    * We are investigating a newly proposed topological phase of matter, the [topological skyrmion semimetal](https://arxiv.org/abs/2311.15753), and its generalizations. The project is built on previous work by the Correlations and Topology group. {% on a [multiplicative Weyl semimetal model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.035147). Our goal is to generalize the classification of topological semimetals to phases characterized by skyrmionic or curvature-trace topology.%} 
 
 * 08/2025–Present: Research Intern  
   * Nordic Institute for Theoretical Physics (Nordita)  
